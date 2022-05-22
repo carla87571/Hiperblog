@@ -1,5 +1,7 @@
 Esta es la historia de Carla Mendía Díaz
 
-Carla Mendía nacío en Tacna Perú, ha vivido en España y ahora vive en Perú
-
+Carla nacío en Tacna Perú,
+ tiene 48 años
+ha vivido en España y ahora vive en Perú
+y ha cambiado de profesión ahora es Data Science
 Hoy hablaremos de su historia
